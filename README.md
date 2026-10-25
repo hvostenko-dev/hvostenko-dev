@@ -1,16 +1,22 @@
-## Hi there 👋
+# Ilya Hvostenko — Full-Stack & Frontend Developer
 
-<!--
-**hvostenko-dev/hvostenko-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Israel** | 💼 Focus: **Web & Mobile Applications (React Ecosystem) + Java Backend**
 
-Here are some ideas to get you started:
+Building production-ready web interfaces, cross-platform mobile apps, and scalable REST APIs. Strong technical background in automotive diagnostics (PDI), hardware protocols, and complex troubleshooting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Core Tech Stack
+
+- **Frontend:** TypeScript, JavaScript (ES6+), React, Next.js, Redux Toolkit / TanStack Query, HTML5, CSS3, Tailwind CSS
+- **Mobile:** React Native, Expo
+- **Backend:** Java, Spring Boot, Spring Security, Hibernate / JPA, Node.js, RESTful APIs
+- **Databases & DevOps:** PostgreSQL, MongoDB, Docker, Git, GitHub Actions, Vercel
+
+---
+
+### 🚀 Featured Projects & Links
+
+- 🌐 **Live Portfolio:** [Portfolio Website](https://portfolio-ilyajavadevs-projects.vercel.app/)
+- 💼 **LinkedIn:** [Ilya Hvostenko](https://www.linkedin.com/in/ilya-hvostenko-a03347298/)
+- 📫 **Contact:** [hvostenko.dev@gmail.com](mailto:hvostenko.dev@gmail.com) *(поменяй на свой точный новый адрес, если назвал иначе)*
