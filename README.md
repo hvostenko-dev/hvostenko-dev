@@ -19,4 +19,4 @@ Building production-ready web interfaces, cross-platform mobile apps, and scalab
 
 - 🌐 **Live Portfolio:** [Portfolio Website](https://portfolio-ilyajavadevs-projects.vercel.app/)
 - 💼 **LinkedIn:** [Ilya Hvostenko](https://www.linkedin.com/in/ilya-hvostenko-a03347298/)
-- 📫 **Contact:** [hvostenko.dev@gmail.com](mailto:hvostenko.dev@gmail.com) *(поменяй на свой точный новый адрес, если назвал иначе)*
+- 📫 **Contact:** [ilyahvostenko@gmail.com](mailto:hvostenko.dev@gmail.com) *(поменяй на свой точный новый адрес, если назвал иначе)*
